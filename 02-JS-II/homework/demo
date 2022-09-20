@@ -1,0 +1,11 @@
+function logHola() {
+    console.log("HolaMundo");
+}
+logHola;
+
+function sumaDosNumeros(a,b) {
+    var suma= a + b ;
+    console.log(suma);
+}
+sumaDosNumeros(3,2)
+
