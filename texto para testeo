@@ -1,0 +1,12 @@
+Por primera vez se ejecuta npm install para instalar los programas necesarios para realizar el testeo.
+Luego si testea cada modulo de la siguiente manera:
+
+npm test JSI.test.js
+npm test JSII.test.js
+npm test JSIII.test.js
+npm test JSIV.test.js
+npm test JSV.test.js
+npm test JSVI.test.js
+
+Si se quiere testear todo lo programado se escribe lo siguiente
+npm test

@@ -10,7 +10,7 @@ var nuevoNum = 2022;
 var nuevoBool = (6 > 8) &&  (5 !=="5");
 
 // Resuelve el siguiente problema matemático:
-var nuevaResta = (10 - 5) === 5;
+var nuevaResta = (10 - 5) === 5; // var nuevaResta = true
 
 // Resuelve el siguiente problema matemático:
 var nuevaMultiplicacion = 10 * 4 === 40 ;
